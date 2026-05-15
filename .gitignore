@@ -1,0 +1,5 @@
+*
+!index.html
+!web-assets/
+!web-assets/*.jpg
+!.gitignore
